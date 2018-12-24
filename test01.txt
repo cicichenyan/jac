@@ -4,6 +4,7 @@ tt01
     Log    sdf
     Log    local
     Log    online
+    Log    branch
 
 tt02
     Log    234
