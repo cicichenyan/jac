@@ -1,6 +1,7 @@
 *** Test Cases ***
 tt01
     Log    123
+    Log    sdf
 
 tt02
     Log    234
