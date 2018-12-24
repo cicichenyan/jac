@@ -3,6 +3,7 @@ tt01
     Log    123
     Log    sdf
     Log    bendi
+    Log    online
 
 tt02
     Log    234
