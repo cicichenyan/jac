@@ -2,7 +2,7 @@
 tt01
     Log    123
     Log    sdf
-    Log    bendi
+    Log    local
     Log    online
 
 tt02
