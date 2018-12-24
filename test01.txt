@@ -2,6 +2,7 @@
 tt01
     Log    123
     Log    sdf
+    Log    bendi
 
 tt02
     Log    234
