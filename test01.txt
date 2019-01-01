@@ -4,6 +4,7 @@ tt01
     Log    sdf
     Log    local
     Log    online
+    Log    firstfunc
 
 tt02
     Log    234
