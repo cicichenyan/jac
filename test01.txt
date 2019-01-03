@@ -6,6 +6,8 @@ tt01
     Log    online
     Log    firstfunc
     Log    release
+    Log    201901031044
+    Log    201901031156
 
 tt02
     Log    234
